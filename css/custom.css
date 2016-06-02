@@ -32,6 +32,6 @@ ul li:first-child{ background-color: #c2d775 }
 ul li:nth-child(2){ background-color: #007278 }
 ul li:nth-child(3){ background-color: #c7b600; align-self: flex-end }
 ul li:nth-child(4){ background-color: #a90077 }
-ul li:nth-child(5){ background-color: #00a378 }
+ul li:nth-child(5){ background-color: #00a378; align-self: center }
 ul li:nth-child(6){ background-color: tomato }
 ul li:last-child{ background-color: #00ea72 }
