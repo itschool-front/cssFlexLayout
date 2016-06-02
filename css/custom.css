@@ -10,7 +10,8 @@ ul#flex-container{
    padding: 5px;
    
    display: flex;
-   flex-direction: column-reverse;
+   flex-direction: row;
+   flex-wrap: wrap;
 }
 
 ul li{
@@ -22,6 +23,7 @@ ul li{
     text-align: center;
     
     flex-grow:1;
+    width:300px;
 }
 
 ul li:first-child{ background-color: #c2d775 }
